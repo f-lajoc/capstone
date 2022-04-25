@@ -1,0 +1,40 @@
+
+body{
+ background-color: black;
+ text-align: center;
+ color: white;
+ font-size: 14px;
+ font-family: "Open Sans-Serif";
+}
+ img{align-content: left;
+}
+header{
+ text-align: right;
+ color: white;}
+li{
+ list-style: none;
+ display: inline-block;
+}
+nav{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+h2,h4{
+ line-height: 40px;
+ font-size: 30px;
+}
+.note{
+ border: 10px solid cyan;
+ background: cyan;
+ border-radius: 50px;
+}
+.prod{
+ text-align: left;
+}
+.arrow{
+ color: cyan;
+ text-align: left;
+ text-decoration: underline;
+ text-decoration-color: cyan;
+}
